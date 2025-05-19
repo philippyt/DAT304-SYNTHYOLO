@@ -1,0 +1,11 @@
+torch>=1.12
+torchvision>=0.13
+opencv-python>=4.5
+matplotlib>=3.5
+numpy>=1.21
+Pillow>=8.4
+tqdm>=4.64
+ultralytics>=8.0
+pyyaml>=6.0
+scipy>=1.8
+seaborn>=0.11
