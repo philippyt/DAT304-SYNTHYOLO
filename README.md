@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 ## Full Pipeline
 ```bash
-bash scripts/run_all.sh
+bash scripts/run.sh
 ```
