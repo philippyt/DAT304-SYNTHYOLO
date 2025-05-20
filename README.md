@@ -1,5 +1,7 @@
 # Downlight Detection in Floor Plans Using YOLO and GAN-Generated Datasets (DAT304)
 
+by Philip André Haugen and Fredrik Noddeland.
+
 This project uses a GAN to generate synthetic floor plans and evaluates YOLO models trained with varying real/synthetic data ratios.
 
 Note: lack of images in 'data' folder due to GDPR.
